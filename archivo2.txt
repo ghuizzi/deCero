@@ -1,0 +1,1 @@
+eliminando archivo y recuperar de staged
