@@ -1,3 +1,4 @@
 eliminando archivo y recuperar de staged
 Cree una rama 
 otro commit en la rama 
+cree otra rama 
